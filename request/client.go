@@ -29,7 +29,7 @@ type ClientInterface interface {
 	Models(context.Context, ...WithModelOption) (map[types.ModelType]*types.Model, error)
 }
 
-const BaseURL = "https://api.novita.ai/v2"
+const BaseURL = "https://api.novita.ai/v3"
 
 type Client struct {
 	apiKey     string

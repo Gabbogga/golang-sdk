@@ -67,6 +67,7 @@ const (
 	DDIM           Sampler = "DDIM"
 	PLMS           Sampler = "PLMS"
 	UNIPC          Sampler = "UniPC"
+	FlowMatchEuler Sampler = "FlowMatchEuler"
 )
 
 type ControlNetUnit struct {
