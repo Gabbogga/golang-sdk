@@ -9,7 +9,7 @@ This SDK is based on the official [API documentation](https://docs.novita.ai/).
 ## Installation
 
 ```bash
-go get -u github.com/novitalabs/golang-sdk
+go get -u github.com/Gabbogga/golang-sdk
 ```
 
 ## Quick Start
@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/novitalabs/golang-sdk/request"
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/request"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func main() {
