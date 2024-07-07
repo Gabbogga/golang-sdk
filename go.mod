@@ -1,3 +1,3 @@
-module github.com/novitalabs/golang-sdk
+module github.com/Gabbogga/golang-sdk
 
 go 1.19
