@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 // ClientInterface define the behavior of Client

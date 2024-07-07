@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func (c *Client) Models(ctx context.Context, opts ...WithModelOption) (types.ModelList, error) {

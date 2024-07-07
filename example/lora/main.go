@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/novitalabs/golang-sdk/request"
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/request"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func (c *Client) Img2Img(ctx context.Context, request *types.Img2ImgRequest) (*types.AsyncResponse, error) {

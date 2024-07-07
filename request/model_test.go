@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func TestClient_Models(t *testing.T) {

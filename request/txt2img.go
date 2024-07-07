@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func (c *Client) Txt2Img(ctx context.Context, request *types.Txt2ImgRequest) (*types.AsyncResponse, error) {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/novitalabs/golang-sdk/types"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 func (c *Client) Progress(ctx context.Context, request *types.ProgressRequest, opts ...WithGenerateImageOption) (*types.ProgressResponse, error) {

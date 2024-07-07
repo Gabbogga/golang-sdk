@@ -11,8 +11,8 @@ import (
 	"net/url"
 	"os"
 
-	xerror "github.com/novitalabs/golang-sdk/error"
-	"github.com/novitalabs/golang-sdk/types"
+	xerror "github.com/Gabbogga/golang-sdk/error"
+	"github.com/Gabbogga/golang-sdk/types"
 )
 
 // syncImageGeneration Common sync image generation procedure
